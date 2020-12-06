@@ -17,10 +17,9 @@ Representative email : cch01024857239@gmail.com
 * chromewebdriver는 따로 설치 필요.
 * 설정-chrome정보- 버전확인
 
-### 공공데이터와 Selenium을 이용한 카카오맵 리뷰 파이썬 크롤링
+### 공공데이터와 Selenium을 이용한 카카오맵 리뷰, 평점 파이썬 크롤링
 ```text
 카카오맵에서 제공하는 장소들의 리뷰들 자동화 크롤링 
-소상공인 공공 데이터 파싱후 Json파일을 읽어 해당
-상호명의 리뷰를 파싱 
+소상공인 공공 데이터 파싱후 Json파일을 읽어 해당 상호명의 리뷰를 파싱 
 장소들을 찾기 위해서는 xpath를 이용하여 검색
 리뷰 탭을 찾기 위해서는 css selector와 link text를 이용

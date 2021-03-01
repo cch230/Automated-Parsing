@@ -23,3 +23,4 @@ Representative email : cch01024857239@gmail.com
 소상공인 공공 데이터 파싱후 Json파일을 읽어 해당 상호명의 리뷰를 파싱 
 장소들을 찾기 위해서는 xpath를 이용하여 검색
 리뷰 탭을 찾기 위해서는 css selector와 link text를 이용
+ 

@@ -24,3 +24,4 @@ Representative email : cch01024857239@gmail.com
 장소들을 찾기 위해서는 xpath를 이용하여 검색
 리뷰 탭을 찾기 위해서는 css selector와 link text를 이용
  
+ 

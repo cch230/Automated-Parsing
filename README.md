@@ -1,6 +1,6 @@
 # Automated-Parsing
 ## 자동화 파싱 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cch230/Automated-Parsing" style="display: block; object-fit: cover; border-radius: 1px; width: 100%; pointer-events: auto;">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cch230/Automated-Parsing" style="display: block; object-fit: cover; border-radius: 1px; width: 100px; pointer-events: auto;">
 ## 사용언어 및 환경
 ![Python Badge](https://img.shields.io/badge/-Python-9cf?style=flat-square&logo=Python)
 Selenium  
